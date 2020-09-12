@@ -1,0 +1,1 @@
+{"version":3,"file":"login.entity.d.ts","sourceRoot":"","sources":["../../../../src/modules/user/entities/login.entity.ts"],"names":[],"mappings":"AAEA,OAAO,EAAE,IAAI,EAAE,MAAM,+BAA+B,CAAC;AAErD,qBACa,SAAS;IAEpB,IAAI,EAAE,IAAI,CAAC;IAGX,KAAK,EAAE,MAAM,CAAC;CACf"}
